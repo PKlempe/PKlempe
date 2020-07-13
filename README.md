@@ -2,15 +2,11 @@
   <b>You like my work?</b></br>
   <a href="https://ko-fi.com/R6R11P68Y" target="_blank"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
 </p>
-<div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="200px" height="154.5px" />
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" /></p>
-  </div>
-</div>
-<p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" width="100" /> 
+</p>
+<img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" /> <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" /></p>
 
 <!--
 **PKlempe/PKlempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
