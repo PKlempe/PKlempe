@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <b>You like my work?</b></br>
+  <a href="https://ko-fi.com/R6R11P68Y"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
+</p>
 
 <!--
 **PKlempe/PKlempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
