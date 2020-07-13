@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="400px" height="309px" />
 <p align="center">
   <b>You like my work?</b></br>
   <a href="https://ko-fi.com/R6R11P68Y"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
