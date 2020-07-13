@@ -3,8 +3,8 @@
   <a href="https://ko-fi.com/R6R11P68Y" target="_blank"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
 </p>
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="100" />
-  <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" width="100" /> 
+  <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" width="400" /> 
 </p>
 <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" /> <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" /></p>
 
