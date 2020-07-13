@@ -4,7 +4,7 @@
 </p>
 <div class="row">
   <div class="column">
-    <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="300px" height="231.75px" />
+    <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="200px" height="154.5px" />
   </div>
   <div class="column">
     <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" /></p>
