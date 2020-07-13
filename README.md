@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="400px" height="309px" />
-<img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" width="446px" height="309px /></p>
+<img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" /></p>
 <!--
 **PKlempe/PKlempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
