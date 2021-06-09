@@ -1,24 +1,4 @@
-<p align="center">
-  <b>You like my work?</b></br>
-  <a href="https://ko-fi.com/R6R11P68Y" target="_blank"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
-</p>
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/dino.gif" width="425" />
-  <img src="https://raw.githubusercontent.com/PKlempe/PKlempe/master/no_internet.jpg" width="425" /> 
-</p>
-
-
-<!--
-**PKlempe/PKlempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub Stats
+---
+[![PKlempe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PKlempe&show_icons=true&line_height=27&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PKlempe&theme=react)](https://github.com/anuraghazra/github-readme-stats)
