@@ -5,6 +5,8 @@
 
 ---
 
+<img align="right" src="https://github.com/PKlempe/PKlempe/blob/master/comic.png" width="275" height="275" />
+
 About Me
 ---
 - 🚞 I'm a Computer Science student and Software Developer from Austria.
