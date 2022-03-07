@@ -7,7 +7,12 @@
 
 About Me
 ---
-[Here should be text]
+- 🚞 I'm a Computer Science student and Software Developer from Austria.
+- 💼 I'm currently unemployed and looking for job offers.
+- 🎮 I have a passion for gaming, especially unique Indie games.
+- 🍿 I love movies and going to the cinema.
+- 🏋️‍♂️ I like to work out in my spare time.
+- 📫 Ask me anything on my [issues page](https://github.com/PKlempe/PKlempe/issues).
 
 My GitHub Stats
 ---
