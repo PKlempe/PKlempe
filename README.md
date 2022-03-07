@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" src="https://github.com/PKlempe/PKlempe/blob/master/comic.png" width="30%" height="30%" />
+<img align="right" src="https://github.com/PKlempe/PKlempe/blob/master/comic.png" width="29%" height="29%" />
 
 About Me
 ---
