@@ -12,7 +12,7 @@ About Me
 - 🎮 I have a passion for gaming, especially unique Indie games.
 - 🍿 I love movies and going to the cinema.
 - 🏋️‍♂️ I like to work out in my spare time.
-- 📫 Ask me anything on my [issues page](https://github.com/PKlempe/PKlempe/issues).
+- 📫 Ask me anything on my [discussions page](https://github.com/PKlempe/PKlempe/discussions).
 
 My GitHub Stats
 ---
