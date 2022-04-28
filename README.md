@@ -10,7 +10,7 @@
 About Me
 ---
 - 🚞 I'm a Computer Science student and Software Developer from Austria.
-- 💼 I'm currently unemployed and looking for job offers.
+- 💼 I'm currently working at [twinformatics](https://www.twinformatics.at/).
 - 🎮 I have a passion for gaming, especially unique Indie games.
 - 🍿 I love movies and going to the cinema.
 - 🏋️‍♂️ I like to work out in my spare time.
